@@ -1,9 +1,12 @@
 
 # Compiler
-此作業為複製陳鍾誠老師的參考資料所完成https://github.com/ccc111b/cpu2os/tree/master/02-%E8%BB%9F%E9%AB%94/02-%E7%B7%A8%E8%AD%AF%E5%99%A8/01-diy/03a-compiler ，並參考葉思妤同學的程式碼進行修改
+此作業為複製陳鍾誠老師的參考資料所完成
 
-```
+https://github.com/ccc111b/cpu2os/tree/master/02-%E8%BB%9F%E9%AB%94/02-%E7%B7%A8%E8%AD%AF%E5%99%A8/01-diy/03a-compiler 
 
+並參考葉思妤同學的程式碼進行修改
+
+https://github.com/siyu0927/sp111b/tree/main/homework/2
 
 ## 語法
 
